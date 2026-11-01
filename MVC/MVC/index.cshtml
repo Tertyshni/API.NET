@@ -1,0 +1,12 @@
+@model IEnumerable<MVC.Models.Car>
+
+<h2>Каталог автомобілів</h2>
+
+@foreach (var car in Model)
+{
+    <div>
+        <h3>@car.Marka @car.Model</h3>
+        <p>Ціна: @car.Price $</p>
+        <hr />
+    </div>
+}
