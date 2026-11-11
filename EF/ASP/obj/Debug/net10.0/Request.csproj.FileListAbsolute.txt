@@ -1,0 +1,7 @@
+C:\Users\Ukraine\Desktop\C#\ASP\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Ukraine\Desktop\C#\ASP\obj\Debug\net10.0\Request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ukraine\Desktop\C#\ASP\obj\Debug\net10.0\Request.AssemblyInfoInputs.cache
+C:\Users\Ukraine\Desktop\C#\ASP\obj\Debug\net10.0\Request.AssemblyInfo.cs
+C:\Users\Ukraine\Desktop\C#\ASP\obj\Debug\net10.0\Request.csproj.CoreCompileInputs.cache
+C:\Users\Ukraine\Desktop\C#\ASP\obj\Debug\net10.0\Request.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ukraine\Desktop\C#\ASP\obj\Debug\net10.0\Request.sourcelink.json

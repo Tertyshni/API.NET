@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJm6/Z5fs4c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ukraine\\Desktop\\C#\\ASP\\Request.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ukraine\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\11.0.0\\microsoft.entityframeworkcore.tools.11.0.0.nupkg.sha512",
+    "C:\\Users\\Ukraine\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ukraine\\.nuget\\packages\\microsoft.openapi\\3.11.0\\microsoft.openapi.3.11.0.nupkg.sha512",
+    "C:\\Users\\Ukraine\\.nuget\\packages\\swashbuckle.aspnetcore\\11.0.0\\swashbuckle.aspnetcore.11.0.0.nupkg.sha512",
+    "C:\\Users\\Ukraine\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\11.0.0\\swashbuckle.aspnetcore.annotations.11.0.0.nupkg.sha512",
+    "C:\\Users\\Ukraine\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\11.0.0\\swashbuckle.aspnetcore.swagger.11.0.0.nupkg.sha512",
+    "C:\\Users\\Ukraine\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\11.0.0\\swashbuckle.aspnetcore.swaggergen.11.0.0.nupkg.sha512",
+    "C:\\Users\\Ukraine\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\11.0.0\\swashbuckle.aspnetcore.swaggerui.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
